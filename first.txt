@@ -1,2 +1,2 @@
-This is a test for GIT(i update it).
+This is a test for GIT(i update it) 3 three.
 Git is free software.
